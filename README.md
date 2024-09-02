@@ -57,12 +57,12 @@
 
 <img align="left" alt="Postman" title="Postman" width="24px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
 
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/> <br />
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game)](https://github.com/ValakDev01/Monster-Slayer-Game)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=F7DF1E&bg_color=00000000)](https://github.com/ValakDev01/Monster-Slayer-Game)
 
 </picture>
 </details>
