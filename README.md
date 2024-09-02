@@ -62,7 +62,7 @@
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game)](https://github.com/ValakDev01/Monster-Slayer-Game)
 
+</picture>
 </details>
