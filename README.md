@@ -60,9 +60,9 @@
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/> <br />
 
 <details open align="center"> 
-  <summary><h2>📘 Projects From The Courses</h2></summary>
+  <summary><h2> ① Projects From The Courses</h2></summary>
 
-  ### JavaScript Projects
+  ### 📔 JavaScript Projects
   ---
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -70,7 +70,7 @@
      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Drag-Drop&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Drag-Drop)
 
-  ### React Projects
+  ### 📘 React Projects
   ---
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -78,10 +78,15 @@
       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)
 
-   ### NodeJS Projects
+   ### 📗 NodeJS Projects
    ---
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=4CAF50&bg_color=00000000&title_color=4CAF50&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=4CAF50&bg_color=00000000&title_color=4CAF50&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)
+
+</details>
+
+<details open align="center"> 
+  <summary><h2> ② My Private Projects</h2></summary>
 
 </details>
