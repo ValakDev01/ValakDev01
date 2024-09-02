@@ -60,9 +60,14 @@
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/> <br />
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 Projects From The Courses</h2></summary>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=F7DF1E&bg_color=00000000)](https://github.com/ValakDev01/Monster-Slayer-Game)
+  ### JavaScript Projects
 
-</picture>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)
+        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)
+
+
 </details>
