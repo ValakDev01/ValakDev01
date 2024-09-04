@@ -65,7 +65,7 @@
   ### 📔 JavaScript Projects
   ---
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Guess-My-Number&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Guess-My-Number)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)
      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Drag-Drop&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Drag-Drop)
@@ -82,7 +82,6 @@
    ---
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Node-Farm&border_color=4CAF50&bg_color=00000000&title_color=4CAF50&text_color=9198A1)](https://github.com/ValakDev01/Node-Farm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=4CAF50&bg_color=00000000&title_color=4CAF50&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)
 
 </details>
 
