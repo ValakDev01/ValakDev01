@@ -79,7 +79,7 @@
         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)
 
    ### 📗 NodeJS Projects
-   ---
+   --
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Node-Farm&border_color=4CAF50&bg_color=00000000&title_color=4CAF50&text_color=9198A1)](https://github.com/ValakDev01/Node-Farm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
