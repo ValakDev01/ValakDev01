@@ -72,6 +72,7 @@
        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Guess-My-Number&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Guess-My-Number)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Pig-Game&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Pig-Game)
             [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Bank-App&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Bank-App)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)
 
   ### 📘 React Projects
   ---
