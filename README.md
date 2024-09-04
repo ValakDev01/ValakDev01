@@ -67,7 +67,7 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Guess-My-Number&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Guess-My-Number)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Modal-Window&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Modal-Window)
-     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Slider-Window&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Slider-Window)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Drag-Drop&border_color=F1E05A&bg_color=00000000&title_color=F1E05A&text_color=9198A1)](https://github.com/ValakDev01/Drag-Drop)
 
   ### 📘 React Projects
