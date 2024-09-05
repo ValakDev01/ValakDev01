@@ -89,8 +89,6 @@
 
 </details>
 
----
-
 <details open align="center"> 
   <summary><h2> ② My Private Projects</h2></summary>
 
