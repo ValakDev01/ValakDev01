@@ -82,7 +82,7 @@
       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Steps-Window&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Steps-Window)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Dynamic-Data-Counter&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Dynamic-Data-Counter)
           [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Flash-Cards&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Flash-Cards)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Monster-Slayer-Game&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Monster-Slayer-Game)
+            [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Travel-List&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Travel-List)
 
 
    ### 📗 NodeJS Projects
