@@ -92,7 +92,7 @@
             [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Quiz-App&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Quiz-App)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=SPA&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/SPA)
             [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Redux-Bank&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Redux-Bank)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=SPA&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/SPA)
+            [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Wild-Oasis-App&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Wild-Oasis-App)
 
    ### 📗 NodeJS Projects
    ---
