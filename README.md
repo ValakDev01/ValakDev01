@@ -87,7 +87,8 @@
             [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Accordion-Component-1-at-a-time&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Accordion-Component-1-at-a-time)
             [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Eat-Split&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Eat-Split)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Cinema-App&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Cinema-App)
-
+            [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Text-Expander&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Text-Expander)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Cinema-App&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Cinema-App)
 
    ### 📗 NodeJS Projects
    ---
