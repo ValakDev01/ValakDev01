@@ -93,15 +93,11 @@
             [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=SPA&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/SPA)
             [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Redux-Bank&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Redux-Bank)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Pagination-App&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Pagination-App)
+             [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Bit-Kingdom-Dashboard&border_color=36BCF7&bg_color=00000000&title_color=36BCF7&text_color=9198A1)](https://github.com/ValakDev01/Bit-Kingdom-Dashboard)
 
    ### 📗 NodeJS Projects
    ---
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValakDev01&repo=Node-Farm&border_color=4CAF50&bg_color=00000000&title_color=4CAF50&text_color=9198A1)](https://github.com/ValakDev01/Node-Farm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-</details>
-
-<details open align="center"> 
-  <summary><h2> ② My Private Projects</h2></summary>
 
 </details>
