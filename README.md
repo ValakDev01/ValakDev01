@@ -60,7 +60,7 @@
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/> <br />
 
 <details open align="center"> 
-  <summary><h2> ① Projects From The Courses</h2></summary>
+
 
   ### 📔 JavaScript Projects
   ---
